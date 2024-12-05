@@ -1,0 +1,213 @@
+{
+    "timeline_entries": [
+        {
+            "type": "timeline_comment",
+            "body": "hi",
+            "body_type": "text",
+            "collections": [
+                "discussions"
+            ],
+            "created_by": {
+                "type": "dev_user",
+                "display_handle": "worm",
+                "display_id": "DEVU-1",
+                "display_name": "worm",
+                "display_picture": {
+                    "display_id": "artifact-7",
+                    "file": {
+                        "type": "image/png"
+                    },
+                    "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:artifact/7",
+                    "id_v1": "don:DEV-2IZhioPdMM:artifact:7",
+                    "original_url": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/HvTmSDQwycUmZPVpnPtlnA",
+                    "preview_url": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/preview/72/HvTmSDQwycUmZPVpnPtlnA"
+                },
+                "email": "4nm21cs024@nmamit.in",
+                "full_name": "worm",
+                "id": "don:identity:dvrv-in-1:devo/2IZhioPdMM:devu/1",
+                "id_v1": "don:DEV-2IZhioPdMM:dev_user:DEVU-1",
+                "state": "active",
+                "thumbnail": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/preview/72/HvTmSDQwycUmZPVpnPtlnA"
+            },
+            "created_date": "2024-12-04T08:59:11.299833Z",
+            "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7:comment/cvrc3ws73iksa",
+            "labels": [
+                "display:customer-chat"
+            ],
+            "object": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7",
+            "object_v1": "don:DEV-2IZhioPdMM:ticket:7",
+            "object_display_id": "TKT-7",
+            "object_type": "ticket",
+            "panels": [
+                "customer_chat"
+            ],
+            "visibility": "external"
+        },
+        {
+            "type": "timeline_comment",
+            "body": "I would like to update a feature in my website",
+            "body_type": "text",
+            "collections": [
+                "discussions"
+            ],
+            "created_by": {
+                "type": "rev_user",
+                "display_id": "REVU-nGU8hS7h",
+                "display_name": "Bug2",
+                "email": "paipananya28@gmail.com",
+                "external_ref": "paipananya28@gmail.com",
+                "id": "don:identity:dvrv-in-1:devo/2IZhioPdMM:revu/nGU8hS7h",
+                "id_v1": "don:DEV-2IZhioPdMM:rev_user:REVU-nGU8hS7h",
+                "rev_org": {
+                    "type": "rev_org",
+                    "display_id": "REV-bvsH2HVE",
+                    "display_name": "God - Default Workspace",
+                    "id": "don:identity:dvrv-in-1:devo/2IZhioPdMM:revo/bvsH2HVE",
+                    "id_v1": "don:DEV-2IZhioPdMM:rev_org:REV-bvsH2HVE",
+                    "thumbnail": "https://api.devrev.ai/internal/display-picture/God%20-%20Default%20Workspace.png"
+                },
+                "state": "active",
+                "thumbnail": "https://api.devrev.ai/internal/display-picture/Bug2.png"
+            },
+            "created_date": "2024-12-04T09:00:01.82296Z",
+            "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7:comment/jm55apg5id6wq",
+            "labels": [
+                "display:customer-chat"
+            ],
+            "object": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7",
+            "object_v1": "don:DEV-2IZhioPdMM:ticket:7",
+            "object_display_id": "TKT-7",
+            "object_type": "ticket",
+            "panels": [
+                "customer_chat"
+            ],
+            "visibility": "external"
+        },
+        {
+            "type": "timeline_comment",
+            "body": "Could you please provide me with the specific requirements?",
+            "body_type": "text",
+            "collections": [
+                "discussions"
+            ],
+            "created_by": {
+                "type": "dev_user",
+                "display_handle": "worm",
+                "display_id": "DEVU-1",
+                "display_name": "worm",
+                "display_picture": {
+                    "display_id": "artifact-7",
+                    "file": {
+                        "type": "image/png"
+                    },
+                    "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:artifact/7",
+                    "id_v1": "don:DEV-2IZhioPdMM:artifact:7",
+                    "original_url": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/HvTmSDQwycUmZPVpnPtlnA",
+                    "preview_url": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/preview/72/HvTmSDQwycUmZPVpnPtlnA"
+                },
+                "email": "4nm21cs024@nmamit.in",
+                "full_name": "worm",
+                "id": "don:identity:dvrv-in-1:devo/2IZhioPdMM:devu/1",
+                "id_v1": "don:DEV-2IZhioPdMM:dev_user:DEVU-1",
+                "state": "active",
+                "thumbnail": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/preview/72/HvTmSDQwycUmZPVpnPtlnA"
+            },
+            "created_date": "2024-12-04T09:01:15.959813Z",
+            "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7:comment/24dy7o5gocvzo",
+            "labels": [
+                "display:customer-chat"
+            ],
+            "object": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7",
+            "object_v1": "don:DEV-2IZhioPdMM:ticket:7",
+            "object_display_id": "TKT-7",
+            "object_type": "ticket",
+            "panels": [
+                "customer_chat"
+            ],
+            "visibility": "external"
+        },
+        {
+            "type": "timeline_comment",
+            "body": "We propose adding a **User Feedback Form** feature to the website to enhance user engagement and streamline issue reporting. This form will include fields such as Name (optional), Email (required), Feedback/Issue Description (required), Category (dropdown with options: Feedback, Bug Report, Feature Request), and an optional file upload feature for screenshots or supporting documents (.jpg/.png/.pdf). The form will have a responsive design suitable for all devices, with validation for required fields like Email and Description. Upon submission, feedback will be stored in a database (e.g., MongoDB or PostgreSQL), and an email notification will be sent to the admin team using a service like Nodemailer. Additionally, an Admin Dashboard will be developed to allow the team to view all submissions, filter them by Category and Date, and export data to CSV for further analysis. This feature will ensure a seamless feedback process for users and provide actionable insights for the team.",
+            "body_type": "text",
+            "collections": [
+                "discussions"
+            ],
+            "created_by": {
+                "type": "rev_user",
+                "display_id": "REVU-nGU8hS7h",
+                "display_name": "Bug2",
+                "email": "paipananya28@gmail.com",
+                "external_ref": "paipananya28@gmail.com",
+                "id": "don:identity:dvrv-in-1:devo/2IZhioPdMM:revu/nGU8hS7h",
+                "id_v1": "don:DEV-2IZhioPdMM:rev_user:REVU-nGU8hS7h",
+                "rev_org": {
+                    "type": "rev_org",
+                    "display_id": "REV-bvsH2HVE",
+                    "display_name": "God - Default Workspace",
+                    "id": "don:identity:dvrv-in-1:devo/2IZhioPdMM:revo/bvsH2HVE",
+                    "id_v1": "don:DEV-2IZhioPdMM:rev_org:REV-bvsH2HVE",
+                    "thumbnail": "https://api.devrev.ai/internal/display-picture/God%20-%20Default%20Workspace.png"
+                },
+                "state": "active",
+                "thumbnail": "https://api.devrev.ai/internal/display-picture/Bug2.png"
+            },
+            "created_date": "2024-12-04T09:03:03.032581Z",
+            "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7:comment/tbknv5rnncrxy",
+            "labels": [
+                "display:customer-chat"
+            ],
+            "object": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7",
+            "object_v1": "don:DEV-2IZhioPdMM:ticket:7",
+            "object_display_id": "TKT-7",
+            "object_type": "ticket",
+            "panels": [
+                "customer_chat"
+            ],
+            "visibility": "external"
+        },
+        {
+            "type": "timeline_comment",
+            "body": "We will reach out to you shortly with additional details.",
+            "body_type": "text",
+            "collections": [
+                "discussions"
+            ],
+            "created_by": {
+                "type": "dev_user",
+                "display_handle": "worm",
+                "display_id": "DEVU-1",
+                "display_name": "worm",
+                "display_picture": {
+                    "display_id": "artifact-7",
+                    "file": {
+                        "type": "image/png"
+                    },
+                    "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:artifact/7",
+                    "id_v1": "don:DEV-2IZhioPdMM:artifact:7",
+                    "original_url": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/HvTmSDQwycUmZPVpnPtlnA",
+                    "preview_url": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/preview/72/HvTmSDQwycUmZPVpnPtlnA"
+                },
+                "email": "4nm21cs024@nmamit.in",
+                "full_name": "worm",
+                "id": "don:identity:dvrv-in-1:devo/2IZhioPdMM:devu/1",
+                "id_v1": "don:DEV-2IZhioPdMM:dev_user:DEVU-1",
+                "state": "active",
+                "thumbnail": "https://s3.ap-south-1.amazonaws.com/devrev-prod-artifacts-public-apsouth1/preview/72/HvTmSDQwycUmZPVpnPtlnA"
+            },
+            "created_date": "2024-12-04T09:04:28.060875Z",
+            "id": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7:comment/wzbjkoositl3m",
+            "labels": [
+                "display:customer-chat"
+            ],
+            "object": "don:core:dvrv-in-1:devo/2IZhioPdMM:ticket/7",
+            "object_v1": "don:DEV-2IZhioPdMM:ticket:7",
+            "object_display_id": "TKT-7",
+            "object_type": "ticket",
+            "panels": [
+                "customer_chat"
+            ],
+            "visibility": "external"
+        }
+    ]
+}
